@@ -1,8 +1,3 @@
-asdad 
-+deneme
--deneme
-~deneme
-asdad\n
-+deneme\n
--deneme\n
-~deneme\n
+[+]deneme
+[-]deneme
+[~]deneme
