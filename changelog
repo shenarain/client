@@ -1,3 +1,3 @@
-add ColorPicker, SummerGui, Emojies, Esp
-del LemonGui,HeroGui
-ch Switch/Tick Aura, Speed(Fantasy,OldNCP)
+addd ColorPicker, SummerGui, Emojies, Esp
+dltd LemonGui,HeroGui
+changed Switch/Tick Aura, Speed(Fantasy,OldNCP)
